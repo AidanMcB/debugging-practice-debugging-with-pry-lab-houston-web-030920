@@ -8,7 +8,7 @@ def snake_it_up(string)
       i += 1
     end
     string
-  else	  else
-  string	    string
-  end	  end
+  else	  
+  string	    
+  end	  
 end
